@@ -1,2 +1,6 @@
-# fipsign-pqproxy-onprem-releases
-Official releases and changelog for PQ-Proxy On-Premise — Post-quantum TLS reverse proxy (X25519MLKEM768 / FIPS 203 + ML-DSA-65 / FIPS 204)
+# PQ-Proxy On-Premise — Releases
+
+Official releases and changelog for PQ-Proxy On-Premise.
+
+For documentation, visit [docs.fipsign.dev](https://docs.fipsign.dev).
+For more information, visit [fipsign.dev](https://fipsign.dev).
