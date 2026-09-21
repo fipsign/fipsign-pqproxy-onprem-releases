@@ -11,7 +11,7 @@
 - Custom/self-signed CA support for backend TLS connections ("Backend speaks TLS")
 - Real client IP forwarding (socket, Proxy Protocol, or configurable header)
 - Corporate LAN backends supported
-- Health checks and Prometheus metrics
+- Prometheus metrics endpoint
 - Backend health status endpoint and dashboard badge, with webhook alerts for sustained outages and recovery
 - Webhook alert notifications for license and certificate expiry
 - Certificate expiry monitoring and alerts
