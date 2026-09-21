@@ -7,7 +7,8 @@
 - Web-based administration dashboard
 - Offline-verifiable license system
 - Multi-domain support with SNI routing
-- BYOC (bring your own certificate)
+- BYOC (bring your own certificate) for incoming client connections
+- Custom/self-signed CA support for backend TLS connections ("Backend speaks TLS")
 - Real client IP forwarding (socket, Proxy Protocol, or configurable header)
 - Corporate LAN backends supported
 - Health checks and Prometheus metrics
