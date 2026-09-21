@@ -1,5 +1,3 @@
-# Changelog
-
 ## [1.0.5] - 2026-07-28
 
 ### Initial Release
@@ -7,12 +5,14 @@
 - Post-quantum TLS reverse proxy with X25519MLKEM768 (NIST FIPS 203)
 - Token signing with ML-DSA-65 (NIST FIPS 204)
 - Web-based administration dashboard
-- Automatic certificates via ACME / Let's Encrypt
 - Offline-verifiable license system
 - Multi-domain support with SNI routing
+- BYOC (bring your own certificate)
+- Real client IP forwarding (socket, Proxy Protocol, or configurable header)
+- Corporate LAN backends supported
 - Health checks and Prometheus metrics
-- SMTP and webhook alert notifications
-- Backend health monitoring with alerting
+- Backend health monitoring (dashboard/Prometheus, no alerting)
+- Webhook alert notifications for license and certificate expiry
 - Certificate expiry monitoring and alerts
 - Update notifications in dashboard
 - Trial and standard license tiers
