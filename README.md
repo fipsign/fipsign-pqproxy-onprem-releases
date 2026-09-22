@@ -8,7 +8,7 @@ Official releases of PQ-Proxy On-Premise, a post-quantum reverse proxy
 ### 1. Request a license
 
 - **Trial (14 days, 1 domain):** [onprem.fipsign.dev](https://onprem.fipsign.dev)
-- **Standard (365 days, up to 10 domains):** [onprem.fipsign.dev/purchase](https://onprem.fipsign.dev/purchase)
+- **Standard (365 days, no domain limit):** [onprem.fipsign.dev/purchase](https://onprem.fipsign.dev/purchase)
 
 You will receive an email with a download link for your `license.pqp` file.
 
