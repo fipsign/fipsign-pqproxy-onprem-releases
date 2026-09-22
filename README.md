@@ -51,14 +51,14 @@ docker compose pull && docker compose up -d
 | Feature | Trial | Standard |
 |---------|-------|----------|
 | Duration | 14 days | 365 days |
-| Domains | 1 | up to 10 |
+| Domains | 1 | no limit |
 | All features | ✓ | ✓ |
 
 ---
 
 ## Documentation
 
-Full documentation: [fipsign.dev/proxy-guide#onprem](https://fipsign.dev/proxy-guide#onprem)
+Full documentation: [fipsign.dev/proxy-guide](https://fipsign.dev/proxy-guide)
 
 ## Support
 
