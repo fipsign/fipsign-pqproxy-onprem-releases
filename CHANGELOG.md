@@ -5,6 +5,7 @@
 - Post-quantum TLS reverse proxy with X25519MLKEM768 (NIST FIPS 203)
 - Token signing with ML-DSA-65 (NIST FIPS 204)
 - Web-based administration dashboard
+- Management API
 - Offline-verifiable license system
 - Multi-domain support with SNI routing
 - BYOC (bring your own certificate) for incoming client connections
