@@ -58,7 +58,7 @@ docker compose pull && docker compose up -d
 
 ## Documentation
 
-Full documentation: [fipsign.dev/proxy-guide](https://fipsign.dev/proxy-guide)
+Full documentation: [onprem.fipsign.dev/proxy-guide](https://onprem.fipsign.dev/proxy-guide)
 
 ## Support
 
